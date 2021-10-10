@@ -1,4 +1,7 @@
-### Hi there ヾ(≧▽≦*)o
+### Hi there ヾ(≧▽≦*)o  
+
+![](https://cdn.jsdelivr.net/gh/SomeBottle/somebottle@1.5/starting_cutup.gif)  
+
 俺是Somebottle，中文昵称些瓶 <del>简写xp</del>  
 同时也是动画/Minecraft短片制作爱好者~
 大学生一枚（也是单身狗一条），脑袋里经常有些好玩的想法，总想写些有趣的项目.  
