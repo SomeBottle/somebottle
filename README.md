@@ -21,5 +21,6 @@ and so on...
 ### 主页
 博客：[bottle.moe](https://bottle.moe)  
 学习仓库：[Cat Note](https://github.com/cat-note/bottleofcat)  
+博客园小站：[https://www.cnblogs.com/somebottle](https://www.cnblogs.com/somebottle)  
 bilibili：[https://space.bilibili.com/13482355](https://space.bilibili.com/13482355)  
 常来这看看，来这看看~🎵  
