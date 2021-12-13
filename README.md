@@ -7,6 +7,7 @@
 大学生一枚（也是单身狗一条），脑袋里经常有些好玩的想法，总想写些有趣的项目.  
 
 我基于自己的想法和咸鱼的技术写出了一些**勉强能用的项目:**  
+* [SKLINE](https://github.com/SomeBottle/skline) TUI游戏，贪吃的线  
 * [OdIndex](https://github.com/SomeBottle/OdIndex) 咱的onedrive列表程序，麻雀虽小五脏俱全Σ(っ °Д °;)っ~  
 * [Comment.B](https://github.com/SomeBottle/Comment.B) 无数据库简单评论框架    
 * [-O-](https://github.com/SomeBottle/-O-) 静态，利用github api的博客系统  
