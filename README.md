@@ -6,7 +6,7 @@
 同时也是动画/Minecraft短片制作爱好者~
 大学生一枚（也是单身狗一条），脑袋里经常有些好玩的想法，总想写些有趣的项目.  
 
-我基于自己的想法和咸鱼的技术写出了一些**勉强能用的项目:**  
+我基于自己的想法和咸鱼的技术写出了一些勉强能用的玩意:  
 * [SKLINE](https://github.com/SomeBottle/skline) TUI游戏，贪吃的线  
 * [OdIndex](https://github.com/SomeBottle/OdIndex) 咱的onedrive列表程序，麻雀虽小五脏俱全Σ(っ °Д °;)っ~  
 * [Comment.B](https://github.com/SomeBottle/Comment.B) 无数据库简单评论框架    
@@ -15,7 +15,7 @@
 * [N.js](https://github.com/SomeBottle/N.js) 能用的弹幕js<del>（要啥自行车）</del>  
 and so on...
 
-我的技术算是菜鸟级别，希望有dalao能给予指教(⊙ˍ⊙)，在如今瞬息万变的互联网上可谓是学无止境。  
+咱目前也仅仅窥探到了冰山一角，希望有dalao能给予指教(⊙ˍ⊙)，在如今瞬息万变的互联网上可谓是学无止境。  
 
 <img src='https://github-readme-stats.vercel.app/api?username=SomeBottle&show_icons=true&hide_border=true' align='right'></img>
 
