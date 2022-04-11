@@ -1,6 +1,6 @@
 ### Hi there ヾ(≧▽≦*)o  
 
-![](https://cdn.jsdelivr.net/gh/SomeBottle/somebottle@latest/komi.gif)  
+![avatar](https://cdn.jsdelivr.net/gh/SomeBottle/somebottle@latest/avatar.png)  
 
 俺是Somebottle，中文昵称些瓶 <del>简写xp</del>  
 同时也是动画/Minecraft短片制作爱好者~
