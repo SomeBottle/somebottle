@@ -15,7 +15,7 @@ and so on...
 
 咱目前也仅仅窥探到了冰山一角，希望有dalao能给予指教(⊙ˍ⊙)，在如今瞬息万变的互联网上可谓是学无止境。  
 
-<img src='https://github-readme-stats.vercel.app/api?username=SomeBottle&show_icons=true&hide_border=true' align='right'></img>
+<img src='https://github-readme-stats.vercel.app/api?username=SomeBottle&show_icons=true&hide_border=true&theme=dark' align='right'></img>
 
 ### 主页
 博客：[bottle.moe](https://bottle.moe)  
