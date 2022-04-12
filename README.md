@@ -8,7 +8,7 @@
 
 我基于自己的想法和咸鱼的技术写出了一些有趣的玩意:  
 * [SKLINE](https://github.com/SomeBottle/skline) TUI游戏，贪吃的线  
-* [OdIndex](https://github.com/SomeBottle/OdIndex) 咱的onedrive列表程序，麻雀虽小五脏俱全Σ(っ °Д °;)っ~  
+* [OdIndex](https://github.com/SomeBottle/OdIndex) 咱的OneDrive列表程序，麻雀虽小五脏俱全Σ(っ °Д °;)っ~  
 * [-O-](https://github.com/SomeBottle/-O-) 静态，利用Github API的博客系统  
 * [BBlock](https://github.com/SomeBottle/BBlock) 脑袋里突然蹦出来的方块音乐播放器  
 and so on...
