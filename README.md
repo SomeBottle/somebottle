@@ -7,6 +7,7 @@
 大学生一枚（也是单身狗一条），脑袋里经常有些好玩的想法，总想写些有趣的项目.  
 
 我基于自己的想法和咸鱼的技术写出了一些有趣的玩意:  
+* [N.js](https://github.com/SomeBottle/N.js/) 用于创建弹幕的小库
 * [SKLINE](https://github.com/SomeBottle/skline) TUI游戏，贪吃的线  
 * [OdIndex](https://github.com/SomeBottle/OdIndex) 咱的OneDrive列表程序，麻雀虽小五脏俱全Σ(っ °Д °;)っ~  
 * [-O-](https://github.com/SomeBottle/-O-) 静态，利用Github API的博客系统  
