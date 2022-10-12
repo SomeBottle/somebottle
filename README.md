@@ -1,8 +1,10 @@
 ### Hi there ヾ(≧▽≦*)o  
 
-![avatar](https://images.weserv.nl/?url=https://raw.githubusercontent.com/SomeBottle/somebottle/master/avatar.png)  
+<!--![avatar](https://images.weserv.nl/?url=https://raw.githubusercontent.com/SomeBottle/somebottle/master/avatar.png)  -->
 
-俺是Somebottle，中文昵称些瓶 <del>简写xp</del>  
+<img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/sticker/hitori.gif" align="right" height="250px"></img>
+
+俺是**Somebottle**，中文昵称些瓶 <del>简写xp</del>  
 同时也是动画/Minecraft短片制作爱好者~
 大学生一枚（也是单身狗一条），脑袋里经常有些好玩的想法，总想写些有趣的项目.  
 
