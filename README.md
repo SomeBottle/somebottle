@@ -12,7 +12,7 @@
 * [N.js](https://github.com/SomeBottle/N.js/) 用于创建弹幕的小库Σ(っ °Д °;)っ~  
 * [SKLINE](https://github.com/SomeBottle/skline) TUI游戏，贪吃的线  
 * [OdIndex](https://github.com/SomeBottle/OdIndex) 咱的OneDrive列表程序
-* [-O-](https://github.com/SomeBottle/-O-) 静态，利用Github API的博客系统  
+* [-O-](https://github.com/SomeBottle/-O-) 纯静态，利用Github API的博客生成器  
 * [BBlock](https://github.com/SomeBottle/BBlock) 脑袋里突然蹦出来的方块音乐播放器  
 and so on...
 
