@@ -18,7 +18,7 @@ and so on...
 
 咱目前也仅仅窥探到了冰山一角🧊，希望有dalao能给予指教(⊙ˍ⊙)，在如今瞬息万变的互联网上可谓是学无止境。  
 
-<a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank"><img src='https://github-readme-stats.vercel.app/api?username=SomeBottle&show_icons=true&hide_border=true&theme=dark&locale=cn' align='right'></img></a>
+<a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank"><img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SomeBottle&show_icons=true&hide_border=true&theme=dark&locale=cn' align='right'></img></a>
 
 ### 主页
 博客：[bottle.moe](https://bottle.moe)  
