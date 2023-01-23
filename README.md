@@ -2,7 +2,7 @@
 
 <!--![avatar](https://images.weserv.nl/?url=https://raw.githubusercontent.com/SomeBottle/somebottle/master/avatar.png)  -->
 
-<img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/sticker/hitori.gif" align="right" height="250px"></img>
+<img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/sticker/hitori.gif" align="right" max-height="250px"></img>
 
 👋 俺是**Somebottle**，中文昵称些瓶 <del>简写xp</del>  
 💖 同时也是 门都没入级动画作画爱好者 / Minecraft短片制作爱好者~  
