@@ -1,13 +1,14 @@
-### Hi there ヾ(≧▽≦*)o  
+## Hi there ヾ(≧▽≦*)o  
 
 <!--![avatar](https://images.weserv.nl/?url=https://raw.githubusercontent.com/SomeBottle/somebottle/master/avatar.png)  -->
 
-<img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/sticker/hitori.gif" align="right" max-height="250px"></img>
+<img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/sticker/identityMonster.gif" align="right"></img>
 
 👋 俺是**Somebottle**，中文昵称些瓶 <del>简写xp</del>  
-💖 同时也是 门都没入级动画作画爱好者 / Minecraft短片制作爱好者~  
+💖 同时也是 门都没入的动画作画爱好者 / Minecraft短片制作爱好者，常看动画番剧。  
 📚 大学生一枚（也是单身🌭一条），脑袋里经常有些好玩的想法，总想写些有趣的小玩意~（不要挖坑不填了喂！）
 
+------
 ✨ 我基于自己的想法和咸鱼的技术写出了一些有趣的玩意:  
 * [N.js](https://github.com/SomeBottle/N.js/) 用于创建弹幕的小库Σ(っ °Д °;)っ~  
 * [SKLINE](https://github.com/SomeBottle/skline) TUI游戏，贪吃的线  
@@ -25,4 +26,5 @@ and so on...
 学习仓库：[Cat Note](https://github.com/cat-note/bottleofcat)  
 博客园小站：[cnblogs/somebottle](https://www.cnblogs.com/somebottle)  
 bilibili：[https://space.bilibili.com/13482355](https://space.bilibili.com/13482355)  
+Bangumi: [
 常来这看看，来这看看~🎵  
