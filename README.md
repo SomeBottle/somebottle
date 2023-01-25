@@ -39,7 +39,7 @@ and so on...
 <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank"><img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SomeBottle&show_icons=true&hide_border=true&theme=dark&locale=cn' align='right'></img></a>
 
 * 博客：[bottle.moe](https://bottle.moe)  
-* 学习仓库：[Cat Note](https://github.com/cat-note/bottleofcat)  
+* 学习仓库：[Cat Note](https://github.com/cat-note/bottleofcat) (包含一些带详细注释的题解)
 * 博客园小站：[cnblogs/somebottle](https://www.cnblogs.com/somebottle) (主要发一些学习笔记)  
 * bilibili：[https://space.bilibili.com/13482355](https://space.bilibili.com/13482355)  
 
