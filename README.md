@@ -33,6 +33,11 @@ and so on...
 <h3 align="center">相信的心就是你的魔法！</h3>
 <p align="center">来自《Little Witch Academia》</p>
 
+<h2 align="center">🔑GPG公钥</h2>
+
+<pre align="center">
+gpg --keyserver hkps://keys.openpgp.org --recv-keys 739B977BB8EAF1A27D45CEF544CAB27C484C507A
+</pre>
 
 <h2 align="center">🚀主页</h2>
 
