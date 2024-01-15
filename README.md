@@ -7,6 +7,8 @@
 
 <h2 align="center">🤔我是...</h2>
 
+<img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/sticker/fondleSomebottle.gif" align="right" width="150px"></img>
+
 👋 俺是**Somebottle**，中文昵称些瓶 <del>简写xp</del>  
 * 💖 门都没入的动画作画爱好者 / Minecraft短片制作爱好者  
 * 📚 普普通通大学生一枚（也是单身🌭一条）
