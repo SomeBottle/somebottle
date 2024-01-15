@@ -14,6 +14,8 @@
 * 📚 普普通通大学生一枚（也是单身🌭一条）
 * 🐛 会写点Bug
 
+<p>&nbsp;</p>
+
 <h2 align="center">✨一些拙作</h2>
 
 <img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/sticker/chewingLyo.gif" align="right" width="150px"></img>
