@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/sticker/fondleSomebottle.gif" align="right" width="150px"></img>
 
 👋 俺是**Somebottle**，中文昵称些瓶 <del>简写xp</del>  
-* 💖 门都没入的动画作画爱好者 / Minecraft短片制作爱好者  
+* 💖 门都没入的动画作画爱好者 / 视频创作爱好者  
 * 📚 普普通通大学生一枚（也是单身🌭一条）
 * 🐛 会写点Bug
 
@@ -21,7 +21,8 @@
 <img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/sticker/chewingLyo.gif" align="right" width="150px"></img>
 
 <div align="left"> 
-  
+
+* [haspark](https://github.com/SomeBottle/haspark/) Spark + Hadoop 容器化部署镜像  
 * [N.js](https://github.com/SomeBottle/N.js/) 用于创建弹幕的小库Σ(っ °Д °;)っ~ 
 * [SKLINE](https://github.com/SomeBottle/skline) TUI游戏，贪吃的线  
 * [BottleM](https://github.com/Bottle-M) 咱的Minecraft“云存档”服务器项目
