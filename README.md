@@ -32,14 +32,14 @@ and so on...
   
 </div>
 
-咱目前也仅仅窥探到了冰山🏔️一角🧊，请各位dalao多指教(⊙ˍ⊙)，在如今瞬息万变的互联网上可谓是学无止境。  
+咱目前也仅仅窥探到了冰山🏔️一角🧊，请各位 dalao 多指教，在如今瞬息万变的互联网上可谓是学无止境 (。_。)。  
 
 <h2 align="center">💬喜欢的动画台词</h2>
 
 <h3 align="center">相信的心就是你的魔法！</h3>
 <p align="center">来自《Little Witch Academia》</p>
 
-<h2 align="center">🔑GPG公钥</h2>
+<h2 align="center">🔑GPG 公钥</h2>
 
 <pre align="center">
 gpg --keyserver hkps://keys.openpgp.org --recv-keys 739B977BB8EAF1A27D45CEF544CAB27C484C507A
