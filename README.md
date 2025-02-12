@@ -22,6 +22,7 @@
 
 <div align="left"> 
 
+* [Konnyaku](https://github.com/SomeBottle/Konnyaku) 基于 LLM 的动画字幕翻译脚本  
 * [haspark](https://github.com/SomeBottle/haspark/) Spark + Hadoop 容器化测试镜像  
 * [N.js](https://github.com/SomeBottle/N.js/) 用于创建弹幕的小库 Σ(っ °Д °;)っ~ 
 * [SKLINE](https://github.com/SomeBottle/skline) TUI 游戏，贪吃的线  
