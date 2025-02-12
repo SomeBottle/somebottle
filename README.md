@@ -23,10 +23,10 @@
 <div align="left"> 
 
 * [Konnyaku](https://github.com/SomeBottle/Konnyaku) 基于 LLM 的动画字幕翻译脚本  
+* [BottleM](https://github.com/Bottle-M) 咱的 **Minecraft 服务器**项目
 * [haspark](https://github.com/SomeBottle/haspark/) Spark + Hadoop 容器化测试镜像  
 * [N.js](https://github.com/SomeBottle/N.js/) 用于创建弹幕的小库 Σ(っ °Д °;)っ~ 
 * [SKLINE](https://github.com/SomeBottle/skline) TUI 游戏，贪吃的线  
-* [BottleM](https://github.com/Bottle-M) 咱的 Minecraft 服务器项目
 * [-O-](https://github.com/SomeBottle/-O-) 纯静态，利用 Github API 的博客生成器  
 * [BBlock](https://github.com/SomeBottle/BBlock) 脑袋里突然蹦出来的方块音乐播放器  
 and so on...  
