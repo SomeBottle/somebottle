@@ -48,7 +48,7 @@ gpg --keyserver hkps://keys.openpgp.org --recv-keys 739B977BB8EAF1A27D45CEF544CA
 
 <h2 align="center">🚀主页</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank"><img src='https://github-readme-stats.vercel.app/api?username=SomeBottle&show_icons=true&hide_border=true&theme=dark&locale=cn' align='right'></img></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src='https://github-readme-stats-snowy-sigma-65.vercel.app/api?username=SomeBottle&show_icons=true&hide_border=false&border_color=8f8f8f&theme=nord&locale=cn' align='right'></img></a>
 
 * 博客：[bottle.moe](https://bottle.moe)  
 * 学习仓库：[Cat Note](https://github.com/cat-note/bottleofcat) <sup>(包含一些带详细注释的题解)</sup>
