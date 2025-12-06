@@ -1,4 +1,4 @@
-<h1>Hi there ヾ(≧▽≦*)o<sup align="right">&nbsp;&nbsp;[中文]&nbsp;[<a href="https://imbottle.com/#/lang/en" target="_blank">English</a>]</sup></h1>
+<h2>Hi there ヾ(≧▽≦*)o<sup align="right">&nbsp;&nbsp;[中文]&nbsp;[<a href="https://imbottle.com/#/lang/en" target="_blank">English</a>]</sup></h2>
 
 <img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/sticker/fondleSomebottle.gif" align="right" width="150px"></img>
 
