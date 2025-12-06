@@ -30,12 +30,14 @@ and so on...
 
 ## 💬喜欢的动画台词
 
-<img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/little_witch_academia.webp" align="right" width="110px"></img>
+<img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/little_witch_academia.webp" align="right" width="115px"></img>
+
 
 > “相信的心就是你的魔法！”
 > 
 > &nbsp;&nbsp;——《Little Witch Academia》
 
+<br>
 
 ## 🔑GPG 公钥
 
