@@ -1,15 +1,15 @@
-<h2>Hi there ヾ(≧▽≦*)o<sup align="right">&nbsp;&nbsp;[中文]&nbsp;[<a href="https://imbottle.com/#/lang/en" target="_blank">English</a>]</sup></h2>
+<h2>👋 Hi there ヾ(≧▽≦*)o<sup align="right">&nbsp;&nbsp;[中文]&nbsp;[<a href="https://imbottle.com/#/lang/en" target="_blank">English</a>]</sup></h2>
 
 <img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/sticker/fondleSomebottle.gif" align="right" width="150px"></img>
 
-👋 俺是 **Somebottle**，中文昵称些瓶 ~~简写xp~~  
+俺是 **Somebottle**，中文昵称些瓶 ~~简写xp~~  
 * <img src="http://raw.githubusercontent.com/SomeBottle/somebottle/master/miyamori.jpg" width="16px" style="vertical-align: middle;">&nbsp;&nbsp;门都没入的动画作画爱好者 / 视频创作爱好者  
 * 🎓 普普通通大学生一枚（也是单身🌭一条）
 * 💻 会写点 BUG 
 
 <p>&nbsp;</p>
 
-## ✨一些拙作
+## ✨ 一些拙作
 
 <img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/sticker/chewingLyo.gif" align="right" width="150px"></img>
 
@@ -28,7 +28,7 @@ and so on...
 
 (。_。) 咱目前也仅仅窥探到了冰山🏔️一角🧊，请各位 dalao 多指教，在如今瞬息万变的互联网上可谓是学无止境。  
 
-## 💬喜欢的动画台词
+## 💬 喜欢的动画台词
 
 <img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/little_witch_academia.webp" align="right" width="115px"></img>
 
@@ -39,13 +39,13 @@ and so on...
 
 <br>
 
-## 🔑GPG 公钥
+## 🔑 GPG 公钥
 
 <pre align="center">
 gpg --keyserver hkps://keys.openpgp.org --recv-keys 739B977BB8EAF1A27D45CEF544CAB27C484C507A
 </pre>
 
-## 🔗链接
+## 🔗 链接
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src='https://github-readme-stats-snowy-sigma-65.vercel.app/api?username=SomeBottle&show_icons=true&hide_border=false&border_color=8f8f8f&theme=nord&locale=cn' align='right'></img></a>
 
