@@ -13,19 +13,16 @@
 
 <img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/sticker/chewingLyo.gif" align="right" width="150px"></img>
 
-<div align="left"> 
 
 * [两肋插剑](https://www.bilibili.com/video/BV1UM4y1V7k5/) - 咱的一个 Minecraft 动画短片作品，第一次尝试结合了一些手绘特效  
 * [BottleM](https://github.com/Bottle-M) - 咱的 **Minecraft 服务器**项目
 * [Konnyaku](https://github.com/SomeBottle/Konnyaku) - 基于 LLM 的动画字幕翻译脚本  
 * [N.js](https://github.com/SomeBottle/N.js/) - 用于创建弹幕的小库 Σ(っ °Д °;)っ~ 
 * [SKLINE](https://github.com/SomeBottle/skline) - TUI 游戏，贪吃的线  
-* [-O-](https://github.com/SomeBottle/-O-) - 纯静态，利用 Github API 的博客生成器  
+* [-O-](https://github.com/SomeBottle/-O-) - 纯静态，利用 GitHub API 的博客生成器  
 * [BBlock](https://github.com/SomeBottle/BBlock) - 脑袋里突然蹦出来的方块音乐播放器  
 and so on...  
   
-</div>
-
 (。_。) 咱目前也仅仅窥探到了冰山🏔️一角🧊，请各位 dalao 多指教，在如今瞬息万变的互联网上可谓是学无止境。  
 
 ## 💬 喜欢的动画台词
